@@ -1,2 +1,2 @@
 # IBM Watson™
-IBM Watson™ Conversation backend for digital assistant.
+IBM Watson™ Conversation JSON backend file for the Help With VA digital assistant.
